@@ -13,6 +13,8 @@ simp-CDN
 |       ╰-- asciiflow.png
 |   ╰-- windows-tool
 |       |-- utools.png
+|       |-- flux.png
+|       |-- geekuninstaller.png
 |       ╰-- everything.png
 |   ╰-- browser-plugin
 |       ╰-- Tampermonkey.png
