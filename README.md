@@ -6,6 +6,8 @@ The simple **C**ontent **D**elivery **N**etwork of waringhu's GitHub.
 ```
 simp-CDN
 |-- 2l-list
+|   ╰-- image-tool
+|       ╰-- BrowserFrame.png
 |   ╰-- other-tool
 |       |-- weread.png
 |       ╰-- ASCIIFlow.png
