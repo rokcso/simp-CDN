@@ -9,11 +9,11 @@ simp-CDN
 |   ╰-- image-tool
 |       ╰-- BrowserFrame.png
 |   ╰-- other-tool
-|       |-- weread.png
-|       ╰-- ASCIIFlow.png
+|       |-- WeRead.png
+|       ╰-- asciiflow.png
 |   ╰-- windows-tool
-|       |-- uTools.png
-|       ╰-- Everything.png
+|       |-- utools.png
+|       ╰-- everything.png
 |   ╰-- browser-plugin
 |       ╰-- Tampermonkey.png
 |
