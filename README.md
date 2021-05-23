@@ -4,12 +4,12 @@ The simple **C**ontent **D**elivery **N**etwork of waringhu's GitHub.
 # Structure
 
 ```
-assets
+simp-CDN
 |-- 2l-list
-|   |-- other-tool
-|       |-- ASCIIFlow.png
-|   |-- windows-tool
-|       |-- Everything.png
+|   ╰-- other-tool
+|       ╰-- ASCIIFlow.png
+|   ╰-- windows-tool
+|       ╰-- Everything.png
 |
 |
 |
