@@ -7,11 +7,12 @@ The simple **C**ontent **D**elivery **N**etwork of waringhu's GitHub.
 simp-CDN
 |-- 2l-list
 |   ╰-- other-tool
+|       |-- weread.png
 |       ╰-- ASCIIFlow.png
 |   ╰-- windows-tool
 |       ╰-- Everything.png
 |
 |
 |
-╰-- other
+╰-- null
 ```
