@@ -12,6 +12,8 @@ simp-CDN
 |   ╰-- windows-tool
 |       |-- uTools.png
 |       ╰-- Everything.png
+|   ╰-- browser-plugin
+|       ╰-- Tampermonkey.png
 |
 |
 |
