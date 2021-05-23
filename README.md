@@ -10,14 +10,21 @@ simp-CDN
 |       ╰-- BrowserFrame.png
 |   ╰-- other-tool
 |       |-- WeRead.png
+|       |-- DevSidecar.png
 |       ╰-- asciiflow.png
 |   ╰-- windows-tool
 |       |-- utools.png
 |       |-- flux.png
 |       |-- geekuninstaller.png
+|       |-- rime.png
+|       |-- snipaste.png
 |       ╰-- everything.png
+|   ╰-- documentation-tool
+|       ╰-- flomo.png
 |   ╰-- browser-plugin
 |       ╰-- Tampermonkey.png
+|   ╰-- user-script
+|       ╰-- open-the-f_king-url-right-now
 |
 |
 |
